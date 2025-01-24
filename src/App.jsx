@@ -1,9 +1,7 @@
+import Board from "./pages/Boards/_id";
+
 function App() {
-  return (
-    <>
-      <h1>Hoanh</h1>
-    </>
-  )
+  return <Board />;
 }
 
-export default App
+export default App;
